@@ -6,7 +6,7 @@
   <link href="http://eddiewang07.github/atom.xml" rel="self"/>
   
   <link href="http://eddiewang07.github/"/>
-  <updated>2020-10-14T13:43:37.932Z</updated>
+  <updated>2020-10-14T14:05:32.393Z</updated>
   <id>http://eddiewang07.github/</id>
   
   <author>
@@ -21,12 +21,33 @@
     <link href="http://eddiewang07.github/2020/10/14/hello-world/"/>
     <id>http://eddiewang07.github/2020/10/14/hello-world/</id>
     <published>2020-10-14T12:05:17.335Z</published>
-    <updated>2020-10-14T13:43:37.932Z</updated>
+    <updated>2020-10-14T14:05:32.393Z</updated>
     
-    <content type="html"><![CDATA[<p>較簡單，很多東西上都會做到點閱率。例：campsite<br>就只有點閱率<br>GA / google analytics<br>豐富的分析，顯示訪客的性別、年齡層、興趣、國家等<br>停留了多久時間，跳離率(Bounce Rate)多少<br>流量在各時間的變化<a id="more"></a><br>知道你的網站流量從哪裡來<br>分析互動<br>實作想法&lt;&gt;<br>目前還想不到可以直接產url 並分析網站的工具，所以還是要：<br>先有網站網址<br>使用 google analytics<br>埋GA<br>網站網址<br>想以最低成本，且最方便的方式有一個可供測試的網站：<br>Wix<br>wordpress<br>購買domain<br>git page<br>實際實作<br>Wix<br>在Wix 中就內建有 google analytics，註冊完GA 後取得追蹤id ，準備要在Wix 中埋入代碼時才發現，只有Wix 進階付費版本才有此功能。<br>Business Basic US$17 / 月<br>Wordpress<br>Wordpress 有內建的外掛可以直接使用GA 或是修改header footer 來放代碼，但一樣是要升級至商務版方案才能安裝外掛程式。<br>商務版 US$25 / 月<br>既然都不給免費埋GA 那我們自己改寫應該行了吧 !<br>購買domain<br>寫了一個單純可以放GA 在head 的html 接著就是放上網域了<br>除了付費domain 外還有免費可以供測試的 freenom，但萬事俱備後才發現… 不對啊怎麼放?<br>還要在短時間內研究DNS 研究如何發布，不行這要花太多時間了!!!<br>Git page<br>使用hexo 建立的git page 生成後會產生index.html<br>有網址、能埋ga 在<head></head>中<br>這不就是我們要的嗎 !!<br>把GA 拿到的代碼貼到index.html 內後<br>hexo d -g<br>檢視頁面程式碼<br>不對啊GA 代碼呢 ?<br>回去看index.html 裡面的剛剛放的程式消失了<br>才想到 每次執行 hexo d -g 都會重建一份index.html<br>上網搜尋了一下<br>發現有些主題內建的 _config.yml 早已寫好GA<br>themes/landscape/_config.yml (landscape主題)<br>google_analytics: UA-xxxxxxxx-x<br>之後再做一次<br>hexo d -g<br>終於完成了！！！！<br>結語<br>這次是受朋友之託需要這樣的網站，實作後也練習了蠻多有趣的東西。google analytics、hexo、git page 中間跳過蠻多的，之後如果有空會再補上各個細節教學。<br>實現需求時總能找到更多好玩的技術，希望大家也能保持 ( 或找回 ) 當工程師的樂趣。Have fun !！</p>]]></content>
+    <content type="html"><![CDATA[<p>較簡單，很多東西上都會做到點閱率。例：campsite<br>就只有點閱率<br>GA / google analytics<br>豐富的分析，顯示訪客的性別、年齡層、興趣、國家等<br>停留了多久時間，跳離率(Bounce Rate)多少<br>流量在各時間的變化<br>知道你的網站流量從哪裡來<br>分析互動<a id="more"></a><br>實作想法<br>目前還想不到可以直接產url 並分析網站的工具，所以還是要：<br>先有網站網址<br>使用 google analytics<br>埋GA<br>網站網址<br>想以最低成本，且最方便的方式有一個可供測試的網站：<br>Wix<br>wordpress<br>購買domain<br>git page<br>實際實作<br>Wix<br>在Wix 中就內建有 google analytics，註冊完GA 後取得追蹤id ，準備要在Wix 中埋入代碼時才發現，只有Wix 進階付費版本才有此功能。<br>Business Basic US$17 / 月<br>Wordpress<br>Wordpress 有內建的外掛可以直接使用GA 或是修改header footer 來放代碼，但一樣是要升級至商務版方案才能安裝外掛程式。<br>商務版 US$25 / 月<br>既然都不給免費埋GA 那我們自己改寫應該行了吧 !<br>購買domain<br>寫了一個單純可以放GA 在head 的html 接著就是放上網域了<br>除了付費domain 外還有免費可以供測試的 freenom，但萬事俱備後才發現… 不對啊怎麼放?<br>還要在短時間內研究DNS 研究如何發布，不行這要花太多時間了!!!<br>Git page<br>使用hexo 建立的git page 生成後會產生index.html<br>有網址、能埋ga 在<head></head>中<br>這不就是我們要的嗎 !!<br>把GA 拿到的代碼貼到index.html 內後<br>hexo d -g<br>檢視頁面程式碼<br>不對啊GA 代碼呢 ?<br>回去看index.html 裡面的剛剛放的程式消失了<br>才想到 每次執行 hexo d -g 都會重建一份index.html<br>上網搜尋了一下<br>發現有些主題內建的 _config.yml 早已寫好GA<br>themes/landscape/_config.yml (landscape主題)<br>google_analytics: UA-xxxxxxxx-x<br>之後再做一次<br>hexo d -g<br>終於完成了！！！！<br>結語<br>這次是受朋友之託需要這樣的網站，實作後也練習了蠻多有趣的東西。google analytics、hexo、git page 中間跳過蠻多的，之後如果有空會再補上各個細節教學。<br>實現需求時總能找到更多好玩的技術，希望大家也能保持 ( 或找回 ) 當工程師的樂趣。Have fun !！</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;較簡單，很多東西上都會做到點閱率。例：campsite&lt;br&gt;就只有點閱率&lt;br&gt;GA / google analytics&lt;br&gt;豐富的分析，顯示訪客的性別、年齡層、興趣、國家等&lt;br&gt;停留了多久時間，跳離率(Bounce Rate)多少&lt;br&gt;流量在各時間的變化</summary>
+    <summary type="html">較簡單，很多東西上都會做到點閱率。例：campsite
+就只有點閱率
+GA / google analytics
+豐富的分析，顯示訪客的性別、年齡層、興趣、國家等
+停留了多久時間，跳離率(Bounce Rate)多少
+流量在各時間的變化
+知道你的網站流量從哪裡來
+分析互動
+實作想法
+目前還想不到可以直接產url 並分析網站的工具，所以還是要：
+先有網站網址
+使用 google analytics
+埋GA
+網站網址
+想以最低成本，且最方便的方式有一個可供測試的網站：
+Wix
+wordpress
+購買domain
+git page
+實際實作
+Wix
+在Wix 中就內建有 google analyt</summary>
     
     
     
