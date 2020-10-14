@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>寶哥&#39;s record 日誌</title>
   
   
   <link href="http://eddiewang07.github/atom.xml" rel="self"/>
   
   <link href="http://eddiewang07.github/"/>
-  <updated>2020-10-14T12:05:17.335Z</updated>
+  <updated>2020-10-14T13:19:41.207Z</updated>
   <id>http://eddiewang07.github/</id>
   
   <author>
@@ -17,19 +17,17 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>今日工事及論文進度</title>
     <link href="http://eddiewang07.github/2020/10/14/hello-world/"/>
     <id>http://eddiewang07.github/2020/10/14/hello-world/</id>
     <published>2020-10-14T12:05:17.335Z</published>
-    <updated>2020-10-14T12:05:17.335Z</updated>
+    <updated>2020-10-14T13:19:41.207Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>較簡單，很多東西上都會做到點閱率。例：campsite<br>就只有點閱率<br>GA / google analytics<br>豐富的分析，顯示訪客的性別、年齡層、興趣、國家等<br>停留了多久時間，跳離率(Bounce Rate)多少<br>流量在各時間的變化<br>知道你的網站流量從哪裡來<br>分析互動<br>實作想法<br>目前還想不到可以直接產url 並分析網站的工具，所以還是要：<br>先有網站網址<br>使用 google analytics<br>埋GA<br>網站網址<br>想以最低成本，且最方便的方式有一個可供測試的網站：<br>Wix<br>wordpress<br>購買domain<br>git page<br>實際實作<br>Wix<br>在Wix 中就內建有 google analytics，註冊完GA 後取得追蹤id ，準備要在Wix 中埋入代碼時才發現，只有Wix 進階付費版本才有此功能。<br>Business Basic US$17 / 月<br>Wordpress<br>Wordpress 有內建的外掛可以直接使用GA 或是修改header footer 來放代碼，但一樣是要升級至商務版方案才能安裝外掛程式。<br>商務版 US$25 / 月<br>既然都不給免費埋GA 那我們自己改寫應該行了吧 !<br>購買domain<br>寫了一個單純可以放GA 在head 的html 接著就是放上網域了<br>除了付費domain 外還有免費可以供測試的 freenom，但萬事俱備後才發現… 不對啊怎麼放?<br>還要在短時間內研究DNS 研究如何發布，不行這要花太多時間了!!!<br>Git page<br>使用hexo 建立的git page 生成後會產生index.html<br>有網址、能埋ga 在<head></head>中<br>這不就是我們要的嗎 !!<br>把GA 拿到的代碼貼到index.html 內後<br>hexo d -g<br>檢視頁面程式碼<br>不對啊GA 代碼呢 ?<br>回去看index.html 裡面的剛剛放的程式消失了<br>才想到 每次執行 hexo d -g 都會重建一份index.html<br>上網搜尋了一下<br>發現有些主題內建的 _config.yml 早已寫好GA<br>themes/landscape/_config.yml (landscape主題)<br>google_analytics: UA-xxxxxxxx-x<br>之後再做一次<br>hexo d -g<br>終於完成了！！！！<br>結語<br>這次是受朋友之託需要這樣的網站，實作後也練習了蠻多有趣的東西。google analytics、hexo、git page 中間跳過蠻多的，之後如果有空會再補上各個細節教學。<br>實現需求時總能找到更多好玩的技術，希望大家也能保持 ( 或找回 ) 當工程師的樂趣。Have fun !！</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;p&gt;較簡單，很多東西上都會做到點閱率。例：campsite&lt;br&gt;就只有點閱率&lt;br&gt;GA / google analytics&lt;br&gt;豐富的分析，顯示訪客的性別、年齡層、興趣、國家等&lt;br&gt;停留了多久時間，跳離率(Bounce Rate)多少&lt;br&gt;流量在各時間的變化&lt;br&gt;知道你的網站流量從哪裡來&lt;br&gt;分析互動&lt;br&gt;實作想法&lt;br&gt;目前還想不到可以直接產url 並分析網站的工具，所以還是要：&lt;br&gt;先有網站網址&lt;br&gt;使用 google analytics&lt;br&gt;埋GA&lt;br&gt;網站網址&lt;br&gt;想以最低成本，且最方便的方式有一個可供測試的網站：&lt;br&gt;Wix&lt;br&gt;wordpress&lt;br&gt;購買domain&lt;br&gt;git page&lt;br&gt;實際實作&lt;br&gt;Wix&lt;br&gt;在Wix 中就內建有 google analytics，註冊完GA 後取得追蹤id ，準備要在Wix 中埋入代碼時才發現，只有Wix 進階付費版本才有此功能。&lt;br&gt;Business Basic US$17 / 月&lt;br&gt;Wordpress&lt;br&gt;Wordpress 有內建的外掛可以直接使用GA 或是修改header footer 來放代碼，但一樣是要升級至商務版方案才能安裝外掛程式。&lt;br&gt;商務版 US$25 / 月&lt;br&gt;既然都不給免費埋GA 那我們自己改寫應該行了吧 !&lt;br&gt;購買domain&lt;br&gt;寫了一個單純可以放GA 在head 的html 接著就是放上網域了&lt;br&gt;除了付費domain 外還有免費可以供測試的 freenom，但萬事俱備後才發現… 不對啊怎麼放?&lt;br&gt;還要在短時間內研究DNS 研究如何發布，不行這要花太多時間了!!!&lt;br&gt;Git page&lt;br&gt;使用hexo 建立的git page 生成後會產生index.html&lt;br&gt;有網址、能埋ga 在&lt;head&gt;&lt;/head&gt;中&lt;br&gt;這不就是我們要的嗎 !!&lt;br&gt;把GA 拿到的代碼貼到index.html 內後&lt;br&gt;hexo d -g&lt;br&gt;檢視頁面程式碼&lt;br&gt;不對啊GA 代碼呢 ?&lt;br&gt;回去看index.html 裡面的剛剛放的程式消失了&lt;br&gt;才想到 每次執行 hexo d -g 都會重建一份index.html&lt;br&gt;上網搜尋了一下&lt;br&gt;發現有些主題內建的 _config.yml 早已寫好GA&lt;br&gt;themes/landscape/_config.yml (landscape主題)&lt;br&gt;google_analytics: UA-xxxxxxxx-x&lt;br&gt;之後再做一次&lt;br&gt;hexo d -g&lt;br&gt;終於完成了！！！！&lt;br&gt;結語&lt;br&gt;這次是受朋友之託需要這樣的網站，實作後也練習了蠻多有趣的東西。google analytics、hexo、git page 中間跳過蠻多的，之後如果有空會再補上各個細節教學。&lt;br&gt;實現需求時總能找到更多好玩的技術，希望大家也能保持 ( 或找回 ) 當工程師的樂趣。Have fun !！&lt;/p&gt;
+</summary>
     
     
     
