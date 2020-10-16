@@ -6,7 +6,7 @@
   <link href="http://eddiewang07.github/atom.xml" rel="self"/>
   
   <link href="http://eddiewang07.github/"/>
-  <updated>2020-10-14T14:25:44.275Z</updated>
+  <updated>2020-10-16T06:53:41.527Z</updated>
   <id>http://eddiewang07.github/</id>
   
   <author>
@@ -18,10 +18,28 @@
   
   <entry>
     <title>今日工事及論文進度</title>
-    <link href="http://eddiewang07.github/2020/10/14/hello-world/"/>
-    <id>http://eddiewang07.github/2020/10/14/hello-world/</id>
+    <link href="http://eddiewang07.github/2020/10/16/paper2/"/>
+    <id>http://eddiewang07.github/2020/10/16/paper2/</id>
+    <published>2020-10-16T06:52:30.438Z</published>
+    <updated>2020-10-16T06:53:41.527Z</updated>
+    
+    <content type="html"><![CDATA[<p>與凱壬修正電路圖</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;與凱壬修正電路圖&lt;/p&gt;
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今日工事及論文進度</title>
+    <link href="http://eddiewang07.github/2020/10/14/paper/"/>
+    <id>http://eddiewang07.github/2020/10/14/paper/</id>
     <published>2020-10-14T12:05:17.335Z</published>
-    <updated>2020-10-14T14:25:44.275Z</updated>
+    <updated>2020-10-16T06:52:39.061Z</updated>
     
     <content type="html"><![CDATA[<p>今天畫電路圖</p>]]></content>
     
