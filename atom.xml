@@ -6,7 +6,7 @@
   <link href="http://eddiewang07.github/atom.xml" rel="self"/>
   
   <link href="http://eddiewang07.github/"/>
-  <updated>2020-10-20T08:09:14.003Z</updated>
+  <updated>2020-10-20T16:36:33.493Z</updated>
   <id>http://eddiewang07.github/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今日工事及論文進度</title>
+    <link href="http://eddiewang07.github/2020/10/20/paper7/"/>
+    <id>http://eddiewang07.github/2020/10/20/paper7/</id>
+    <published>2020-10-19T16:34:46.000Z</published>
+    <updated>2020-10-20T16:36:33.493Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.第二次買的MQ303A不知道是燒壞還是讀取的值跟第一次買的燒壞是一樣的。<br>2.目前有跳出值是穩定的但是不會因為酒精而有所變化。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;1.第二次買的MQ303A不知道是燒壞還是讀取的值跟第一次買的燒壞是一樣的。&lt;br&gt;2.目前有跳出值是穩定的但是不會因為酒精而有所變化。&lt;/p&gt;
+</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>今日工事及論文進度</title>
