@@ -6,7 +6,7 @@
   <link href="http://eddiewang07.github/atom.xml" rel="self"/>
   
   <link href="http://eddiewang07.github/"/>
-  <updated>2020-10-18T12:31:21.413Z</updated>
+  <updated>2020-10-20T02:42:07.078Z</updated>
   <id>http://eddiewang07.github/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>paper6</title>
+    <link href="http://eddiewang07.github/2020/10/19/paper6/"/>
+    <id>http://eddiewang07.github/2020/10/19/paper6/</id>
+    <published>2020-10-19T03:45:41.000Z</published>
+    <updated>2020-10-20T02:42:07.078Z</updated>
+    
+    <content type="html"><![CDATA[<p>凱壬幫我畫好電路圖，須自己重劃一次。<br>sensor一樣出現不穩定，等看看明天18.30。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;凱壬幫我畫好電路圖，須自己重劃一次。&lt;br&gt;sensor一樣出現不穩定，等看看明天18.30。&lt;/p&gt;
+</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>今日工事及論文進度</title>
