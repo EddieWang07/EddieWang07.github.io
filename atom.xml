@@ -6,7 +6,7 @@
   <link href="http://eddiewang07.github/atom.xml" rel="self"/>
   
   <link href="http://eddiewang07.github/"/>
-  <updated>2020-10-20T02:42:07.078Z</updated>
+  <updated>2020-10-20T08:09:14.003Z</updated>
   <id>http://eddiewang07.github/</id>
   
   <author>
@@ -17,16 +17,16 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>paper6</title>
+    <title>今日工事及論文進度</title>
     <link href="http://eddiewang07.github/2020/10/19/paper6/"/>
     <id>http://eddiewang07.github/2020/10/19/paper6/</id>
     <published>2020-10-19T03:45:41.000Z</published>
-    <updated>2020-10-20T02:42:07.078Z</updated>
+    <updated>2020-10-20T08:09:14.003Z</updated>
     
-    <content type="html"><![CDATA[<p>凱壬幫我畫好電路圖，須自己重劃一次。<br>sensor一樣出現不穩定，等看看明天18.30。</p>]]></content>
+    <content type="html"><![CDATA[<p>凱壬幫我畫好電路圖，須自己重劃一次。<br>sensor一樣出現不穩定，等看看明天18.30。<br>注意事項：<br>1.上下層連接要用Via。<br>2.layout線要走45度，不要90度。<br>3.過孔不要打在元件上面，除非必要縮小。<br>4.線寬影響電流。<br>5.過孔是電源線，要變大還是多放幾個。</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;凱壬幫我畫好電路圖，須自己重劃一次。&lt;br&gt;sensor一樣出現不穩定，等看看明天18.30。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;凱壬幫我畫好電路圖，須自己重劃一次。&lt;br&gt;sensor一樣出現不穩定，等看看明天18.30。&lt;br&gt;注意事項：&lt;br&gt;1.上下層連接要用Via。&lt;br&gt;2.layout線要走45度，不要90度。&lt;br&gt;3.過孔不要打在元件上面，除非必要縮小。&lt;br&gt;4.線寬影響電流。&lt;br&gt;5.過孔是電源線，要變大還是多放幾個。&lt;/p&gt;
 </summary>
     
     
