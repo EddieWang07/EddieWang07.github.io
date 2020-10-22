@@ -6,7 +6,7 @@
   <link href="http://eddiewang07.github/atom.xml" rel="self"/>
   
   <link href="http://eddiewang07.github/"/>
-  <updated>2020-10-20T16:48:34.729Z</updated>
+  <updated>2020-10-22T02:03:54.083Z</updated>
   <id>http://eddiewang07.github/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今日工事及論文進度</title>
+    <link href="http://eddiewang07.github/2020/10/21/paper8/"/>
+    <id>http://eddiewang07.github/2020/10/21/paper8/</id>
+    <published>2020-10-21T02:01:27.000Z</published>
+    <updated>2020-10-22T02:03:54.083Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.sensor正常電壓下數值穩定，但是碰到酒精卻沒有作動（數值要下降）。<br>2.交叉測試硬體arduino 都沒有問題，有可能sensor燒壞<br>3.抑或是電路接法有問題。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;1.sensor正常電壓下數值穩定，但是碰到酒精卻沒有作動（數值要下降）。&lt;br&gt;2.交叉測試硬體arduino 都沒有問題，有可能sensor燒壞&lt;br&gt;3.抑或是電路接法有問題。&lt;/p&gt;
+</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>今日工事及論文進度</title>
