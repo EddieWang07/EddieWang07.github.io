@@ -6,7 +6,7 @@
   <link href="http://eddiewang07.github/atom.xml" rel="self"/>
   
   <link href="http://eddiewang07.github/"/>
-  <updated>2020-10-22T02:03:54.083Z</updated>
+  <updated>2020-10-22T13:13:50.331Z</updated>
   <id>http://eddiewang07.github/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今日工事及論文進度</title>
+    <link href="http://eddiewang07.github/2020/10/22/paper9/"/>
+    <id>http://eddiewang07.github/2020/10/22/paper9/</id>
+    <published>2020-10-22T13:09:46.000Z</published>
+    <updated>2020-10-22T13:13:50.331Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.經過測試sensor沒意外應該是燒壞<br>2.凱壬修改好電路圖，明天以那個電路板先洗看看。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;1.經過測試sensor沒意外應該是燒壞&lt;br&gt;2.凱壬修改好電路圖，明天以那個電路板先洗看看。&lt;/p&gt;
+</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>今日工事及論文進度</title>
