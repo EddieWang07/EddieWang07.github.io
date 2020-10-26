@@ -6,7 +6,7 @@
   <link href="http://eddiewang07.github/atom.xml" rel="self"/>
   
   <link href="http://eddiewang07.github/"/>
-  <updated>2020-10-26T07:22:29.062Z</updated>
+  <updated>2020-10-26T10:01:32.467Z</updated>
   <id>http://eddiewang07.github/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今日工事及論文進度</title>
+    <link href="http://eddiewang07.github/2020/10/26/paper13/"/>
+    <id>http://eddiewang07.github/2020/10/26/paper13/</id>
+    <published>2020-10-26T09:59:59.000Z</published>
+    <updated>2020-10-26T10:01:32.467Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.實驗證明MQ303A 給高壓1.8v 10s後 調回0.9v 數值穩定<br>2.缺少零件 cp2104</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;1.實驗證明MQ303A 給高壓1.8v 10s後 調回0.9v 數值穩定&lt;br&gt;2.缺少零件 cp2104&lt;/p&gt;
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>paper12</title>
+    <link href="http://eddiewang07.github/2020/10/26/paper12/"/>
+    <id>http://eddiewang07.github/2020/10/26/paper12/</id>
+    <published>2020-10-26T09:59:51.000Z</published>
+    <updated>2020-10-26T09:59:51.831Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>今日工事及論文進度</title>
