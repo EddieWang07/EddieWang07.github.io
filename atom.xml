@@ -47,12 +47,12 @@
     <link href="http://eddiewang07.github/2020/11/10/paper28/"/>
     <id>http://eddiewang07.github/2020/11/10/paper28/</id>
     <published>2020-11-10T01:57:48.000Z</published>
-    <updated>2020-11-10T15:19:16.041Z</updated>
+    <updated>2020-11-10T15:19:26.947Z</updated>
     
-    <content type="html"><![CDATA[<p>1.還是一樣用範例程式燒不出來</p>]]></content>
+    <content type="html"><![CDATA[<p>1.還是一樣用blink範例程式燒不出來</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;1.還是一樣用範例程式燒不出來&lt;/p&gt;
+    <summary type="html">&lt;p&gt;1.還是一樣用blink範例程式燒不出來&lt;/p&gt;
 </summary>
     
     
@@ -65,12 +65,12 @@
     <link href="http://eddiewang07.github/2020/11/09/paper27/"/>
     <id>http://eddiewang07.github/2020/11/09/paper27/</id>
     <published>2020-11-09T01:57:45.000Z</published>
-    <updated>2020-11-09T16:30:58.033Z</updated>
+    <updated>2020-11-10T15:19:35.462Z</updated>
     
-    <content type="html"><![CDATA[<p>1.燒錄Atmega328P 需要先用FUSE 確認過，才能用bootloader<br>2.燒完bootloader 之後要用範例程式無法啟動</p>]]></content>
+    <content type="html"><![CDATA[<p>1.燒錄Atmega328P 需要先用FUSE 確認過，才能用bootloader<br>2.燒完bootloader 之後要用blink範例程式無法啟動</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;1.燒錄Atmega328P 需要先用FUSE 確認過，才能用bootloader&lt;br&gt;2.燒完bootloader 之後要用範例程式無法啟動&lt;/p&gt;
+    <summary type="html">&lt;p&gt;1.燒錄Atmega328P 需要先用FUSE 確認過，才能用bootloader&lt;br&gt;2.燒完bootloader 之後要用blink範例程式無法啟動&lt;/p&gt;
 </summary>
     
     
