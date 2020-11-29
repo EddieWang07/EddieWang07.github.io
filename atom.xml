@@ -6,7 +6,7 @@
   <link href="http://eddiewang07.github/atom.xml" rel="self"/>
   
   <link href="http://eddiewang07.github/"/>
-  <updated>2020-11-22T16:08:03.712Z</updated>
+  <updated>2020-11-29T11:41:58.550Z</updated>
   <id>http://eddiewang07.github/</id>
   
   <author>
@@ -15,6 +15,97 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今日工事及論文進度</title>
+    <link href="http://eddiewang07.github/2020/11/30/paper47/"/>
+    <id>http://eddiewang07.github/2020/11/30/paper47/</id>
+    <published>2020-11-30T11:41:17.000Z</published>
+    <updated>2020-11-29T11:41:58.550Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>paper48</title>
+    <link href="http://eddiewang07.github/2020/11/29/paper48/"/>
+    <id>http://eddiewang07.github/2020/11/29/paper48/</id>
+    <published>2020-11-29T11:41:26.000Z</published>
+    <updated>2020-11-29T11:41:26.202Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今日工事及論文進度</title>
+    <link href="http://eddiewang07.github/2020/11/28/paper46/"/>
+    <id>http://eddiewang07.github/2020/11/28/paper46/</id>
+    <published>2020-11-28T11:40:46.000Z</published>
+    <updated>2020-11-29T11:41:55.272Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今日工事及論文進度</title>
+    <link href="http://eddiewang07.github/2020/11/27/paper45/"/>
+    <id>http://eddiewang07.github/2020/11/27/paper45/</id>
+    <published>2020-11-27T11:40:42.000Z</published>
+    <updated>2020-11-29T11:41:51.692Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今日工事及論文進度</title>
+    <link href="http://eddiewang07.github/2020/11/26/paper44/"/>
+    <id>http://eddiewang07.github/2020/11/26/paper44/</id>
+    <published>2020-11-26T11:40:38.000Z</published>
+    <updated>2020-11-29T11:41:48.131Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今日工事及論文進度</title>
+    <link href="http://eddiewang07.github/2020/11/25/paper43/"/>
+    <id>http://eddiewang07.github/2020/11/25/paper43/</id>
+    <published>2020-11-25T11:40:35.000Z</published>
+    <updated>2020-11-29T11:41:45.037Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今日工事及論文進度</title>
+    <link href="http://eddiewang07.github/2020/11/24/paper42/"/>
+    <id>http://eddiewang07.github/2020/11/24/paper42/</id>
+    <published>2020-11-24T11:39:50.000Z</published>
+    <updated>2020-11-29T11:41:41.876Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>今日工事及論文進度</title>
@@ -189,112 +280,6 @@
     <published>2020-11-11T01:57:53.000Z</published>
     <updated>2020-11-08T01:59:03.075Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>今日工事及論文進度</title>
-    <link href="http://eddiewang07.github/2020/11/10/paper28/"/>
-    <id>http://eddiewang07.github/2020/11/10/paper28/</id>
-    <published>2020-11-10T01:57:48.000Z</published>
-    <updated>2020-11-10T15:19:26.947Z</updated>
-    
-    <content type="html"><![CDATA[<p>1.還是一樣用blink範例程式燒不出來</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;1.還是一樣用blink範例程式燒不出來&lt;/p&gt;
-</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>今日工事及論文進度</title>
-    <link href="http://eddiewang07.github/2020/11/09/paper27/"/>
-    <id>http://eddiewang07.github/2020/11/09/paper27/</id>
-    <published>2020-11-09T01:57:45.000Z</published>
-    <updated>2020-11-10T15:19:35.462Z</updated>
-    
-    <content type="html"><![CDATA[<p>1.燒錄Atmega328P 需要先用FUSE 確認過，才能用bootloader<br>2.燒完bootloader 之後要用blink範例程式無法啟動</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;1.燒錄Atmega328P 需要先用FUSE 確認過，才能用bootloader&lt;br&gt;2.燒完bootloader 之後要用blink範例程式無法啟動&lt;/p&gt;
-</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>今日工事及論文進度</title>
-    <link href="http://eddiewang07.github/2020/11/08/paper26/"/>
-    <id>http://eddiewang07.github/2020/11/08/paper26/</id>
-    <published>2020-11-08T01:57:41.000Z</published>
-    <updated>2020-11-08T01:58:44.103Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>今日工事及論文進度</title>
-    <link href="http://eddiewang07.github/2020/11/07/paper25/"/>
-    <id>http://eddiewang07.github/2020/11/07/paper25/</id>
-    <published>2020-11-07T01:57:37.000Z</published>
-    <updated>2020-11-08T01:58:33.033Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>今日工事及論文進度</title>
-    <link href="http://eddiewang07.github/2020/11/06/paper24/"/>
-    <id>http://eddiewang07.github/2020/11/06/paper24/</id>
-    <published>2020-11-06T01:57:34.000Z</published>
-    <updated>2020-11-08T01:58:27.301Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>今日工事及論文進度</title>
-    <link href="http://eddiewang07.github/2020/11/05/paper23/"/>
-    <id>http://eddiewang07.github/2020/11/05/paper23/</id>
-    <published>2020-11-05T01:57:30.000Z</published>
-    <updated>2020-11-08T01:58:22.602Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>今日工事及論文進度</title>
-    <link href="http://eddiewang07.github/2020/11/04/paper22/"/>
-    <id>http://eddiewang07.github/2020/11/04/paper22/</id>
-    <published>2020-11-04T09:05:03.000Z</published>
-    <updated>2020-11-04T16:06:10.650Z</updated>
-    
-    <content type="html"><![CDATA[<p>1.PCB電路板已到</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;1.PCB電路板已到&lt;/p&gt;
-</summary>
     
     
     
